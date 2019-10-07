@@ -1,0 +1,10 @@
+D:\DMCode\Algorithms\TestQueue\TestTopic\bin\Debug\TestTopic.exe.config
+D:\DMCode\Algorithms\TestQueue\TestTopic\bin\Debug\TestTopic.exe
+D:\DMCode\Algorithms\TestQueue\TestTopic\bin\Debug\TestTopic.pdb
+D:\DMCode\Algorithms\TestQueue\TestTopic\bin\Debug\Microsoft.ServiceBus.dll
+D:\DMCode\Algorithms\TestQueue\TestTopic\bin\Debug\Microsoft.ServiceBus.xml
+D:\DMCode\Algorithms\TestQueue\TestTopic\obj\Debug\TestTopic.csprojAssemblyReference.cache
+D:\DMCode\Algorithms\TestQueue\TestTopic\obj\Debug\TestTopic.csproj.CoreCompileInputs.cache
+D:\DMCode\Algorithms\TestQueue\TestTopic\obj\Debug\TestTopic.csproj.CopyComplete
+D:\DMCode\Algorithms\TestQueue\TestTopic\obj\Debug\TestTopic.exe
+D:\DMCode\Algorithms\TestQueue\TestTopic\obj\Debug\TestTopic.pdb

@@ -1,0 +1,7 @@
+D:\DMCode\Algorithms\TestCodeC#\TestApp1\TestApp1\bin\Debug\TestApp1.exe.config
+D:\DMCode\Algorithms\TestCodeC#\TestApp1\TestApp1\bin\Debug\TestApp1.exe
+D:\DMCode\Algorithms\TestCodeC#\TestApp1\TestApp1\bin\Debug\TestApp1.pdb
+D:\DMCode\Algorithms\TestCodeC#\TestApp1\TestApp1\obj\Debug\TestApp1.csprojAssemblyReference.cache
+D:\DMCode\Algorithms\TestCodeC#\TestApp1\TestApp1\obj\Debug\TestApp1.csproj.CoreCompileInputs.cache
+D:\DMCode\Algorithms\TestCodeC#\TestApp1\TestApp1\obj\Debug\TestApp1.exe
+D:\DMCode\Algorithms\TestCodeC#\TestApp1\TestApp1\obj\Debug\TestApp1.pdb

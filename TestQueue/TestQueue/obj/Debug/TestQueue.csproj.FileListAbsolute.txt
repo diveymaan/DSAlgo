@@ -1,0 +1,10 @@
+D:\DMCode\Algorithms\TestQueue\TestQueue\bin\Debug\TestQueue.exe.config
+D:\DMCode\Algorithms\TestQueue\TestQueue\bin\Debug\TestQueue.exe
+D:\DMCode\Algorithms\TestQueue\TestQueue\bin\Debug\TestQueue.pdb
+D:\DMCode\Algorithms\TestQueue\TestQueue\bin\Debug\Microsoft.ServiceBus.dll
+D:\DMCode\Algorithms\TestQueue\TestQueue\bin\Debug\Microsoft.ServiceBus.xml
+D:\DMCode\Algorithms\TestQueue\TestQueue\obj\Debug\TestQueue.csprojAssemblyReference.cache
+D:\DMCode\Algorithms\TestQueue\TestQueue\obj\Debug\TestQueue.csproj.CoreCompileInputs.cache
+D:\DMCode\Algorithms\TestQueue\TestQueue\obj\Debug\TestQueue.csproj.CopyComplete
+D:\DMCode\Algorithms\TestQueue\TestQueue\obj\Debug\TestQueue.exe
+D:\DMCode\Algorithms\TestQueue\TestQueue\obj\Debug\TestQueue.pdb
